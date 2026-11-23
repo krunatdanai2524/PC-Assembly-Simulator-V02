@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<meta name="csrf-token" content="Ztk5XW5DwS31Ly63juawKrYWRFsgkd3Zd7P4qJUM" />
+<meta name="theme-color" content="#216AC4">
+<meta name="title" content="เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ — รูปภาพ — Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png">
+<meta name="description" content="เว็บฝากรูปฟรี ไม่มีลายน้ำ ไม่หมดอายุ รองรับไฟล์ใหญ่ แชร์รูปได้ทุกที่ ใช้งานง่าย ฟรีตลอดชีพ ไม่จำกัดขนาด">
+<meta name="keywords" content="ฝากรูป, อัปโหลดรูป, ฝากรูปฟรี, ฝากไฟล์ภาพ, ฝากรูปไม่ลบ, upload image, image hosting, ฝากรูปไม่มีลายน้ำ, อัปโหลดรูปฟรี, แชร์รูป, โพสรูป, ฝากไฟล์ฟรี, free image hosting, uppic, uppic cloud">
+<link rel="alternate" hreflang="x-default" href="https://uppic.cloud" />
+    <link rel="alternate" hreflang="en" href="https://uppic.cloud/en" />
+    <link rel="alternate" hreflang="th" href="https://uppic.cloud/th" />
+<meta name="robots" content="index, follow">
+<meta name="language" content="Thai">
+<meta name="author" content="เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ">
+<meta property="og:url" content="https://uppic.cloud/th/2ZthKvwZfB9Ikca">
+<meta property="og:image" content="https://uppic.cloud/ib/zoqJp7NcjoQCgJz_1768984457.png">
+<meta property="og:site_name" content="เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ">
+<meta property="og:locale" content="th">
+<meta property="og:locale:alternate" content="th_TH">
+<meta property="og:type" content="website">
+<meta property="og:title" content="เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ — รูปภาพ — Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png">
+<meta property="og:description" content="เว็บฝากรูปฟรี ไม่มีลายน้ำ ไม่หมดอายุ รองรับไฟล์ใหญ่ แชร์รูปได้ทุกที่ ใช้งานง่าย ฟรีตลอดชีพ ไม่จำกัดขนาด">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ — รูปภาพ — Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png">
+<meta name="twitter:image:src" content="https://uppic.cloud/ib/zoqJp7NcjoQCgJz_1768984457.png">
+<meta name="twitter:description" content="เว็บฝากรูปฟรี ไม่มีลายน้ำ ไม่หมดอายุ รองรับไฟล์ใหญ่ แชร์รูปได้ทุกที่ ใช้งานง่าย ฟรีตลอดชีพ ไม่จำกัดขนาด">
+<title>เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ — รูปภาพ — Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png</title>
+<link rel="icon" href="https://uppic.cloud/images/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://uppic.cloud/images/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700&display=swap">    <link rel="stylesheet" href="https://uppic.cloud/assets/vendor/libs/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/vendor/libs/fontawesome/v6.1.1/fontawesome.min.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/vendor/libs/toastr/css/vironeer-toastr.min.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/vendor/libs/simplebar/simplebar.min.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/css/extra/colors.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/css/extra/extra.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/css/application.1264c14887d0bbd31df93debe5bc9e44.css">
+<link rel="stylesheet" href="https://uppic.cloud/assets/css/extra/custom.css">
+    <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.startgif', '1,4835471,4,10007,"div#histatsC {position: absolute;top:0px;left:0px;}body>div#histatsC {position: fixed;}"']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_giftop_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><style type="text/css">div#histatsC {position: absolute;top:0px;left:0px;}body>div#histatsC {position: fixed;}</style>
+<a href="/" alt="" target="_blank" ><div id="histatsC"><img border="0" src="//s4is.histats.com/stats/i/4835471.gif?4835471&103"></div></a>
+</noscript>
+        <!-- Histats.com  END  -->
+
+<script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+ <ins class="eas6a97888e14" data-zoneid="6064310"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+</head>
+
+<body>
+    <header class="header">
+        <div class="nav-bar">
+    <div class="container-lg">
+        <div class="nav-bar-container">
+            <a href="https://uppic.cloud/th" class="logo">
+                <img src="https://uppic.cloud/images/dark-logo.png" alt="เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ" />
+            </a>
+            <div class="nav-bar-menu">
+                <div class="overlay"></div>
+                <div class="nav-bar-links">
+                    <div class="nav-bar-menu-header">
+                        <a class="nav-bar-menu-close ms-auto">
+                            <i class="fa fa-times"></i>
+                        </a>
+                    </div>
+                                        <div class="drop-down languages" data-dropdown>
+    <div class="drop-down-btn">
+        <div class="language-img">
+            <img src="https://uppic.cloud/images/flags/th.png" alt="Thai" />
+        </div>
+        <span>Thai</span>
+        <i class="fa fa-angle-down ms-2"></i>
+    </div>
+    <div class="drop-down-menu">
+                    <a class="drop-down-item "
+                href="https://uppic.cloud/en/2ZthKvwZfB9Ikca">
+                <div class="language-img">
+                    <img src="https://uppic.cloud/images/flags/en.png" alt="English" />
+                </div>
+                English
+            </a>
+                    <a class="drop-down-item active"
+                href="https://uppic.cloud/th/2ZthKvwZfB9Ikca">
+                <div class="language-img">
+                    <img src="https://uppic.cloud/images/flags/th.png" alt="Thai" />
+                </div>
+                Thai
+            </a>
+            </div>
+</div>
+                                            <a href="https://uppic.cloud/th/login" class="link-btn">
+                            <button class="btn btn-outline-primary btn-sm">เข้าสู่ระบบ</button>
+                        </a>
+                                                    <a href="https://uppic.cloud/th/register" class="link-btn">
+                                <button class="btn btn-primary btn-sm">สมัครสมาชิก</button>
+                            </a>
+                                                            </div>
+            </div>
+            <div class="nav-bar-actions">
+                                <div class="nav-bar-menu-btn">
+                    <i class="fa-solid fa-bars-staggered fa-lg"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </header>
+    <section class="section pt-0 pb-0">
+            <div class="fileviewer">
+        <div class="container-lg">
+            <div class="fileviewer-body">
+                
+                <div class="fileviewer-file">
+                    <img src="https://uppic.cloud/ib/zoqJp7NcjoQCgJz_1768984457.png" alt="Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png"
+                        title="Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png">
+                </div>
+                
+                               <center><script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+ <ins class="eas6a97888e10" data-zoneid="6062394"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script> </br>
+ </center> 
+                
+                <div class="border-top mt-5 pt-4 mb-4">
+                    <div class="row row-cols-auto align-items-center justify-content-between g-3">
+                        <div class="col">
+                            <div class="fileviewer-user">
+                                <div class="fileviewer-user-img">
+                                    <img src="https://uppic.cloud/images/avatars/default.png" alt="ณัฐดนัย จำปี" />
+                                </div>
+                                <div class="fileviewer-user-info">
+                                    <h5 class="fileviewer-user-title mb-2">ณัฐดนัย จำปี</h5>
+                                    <div class="fileviewer-user-meta">
+                                        <div class="fileviewer-user-meta-item">
+                                            <i class="fa-solid fa-calendar me-1"></i>
+                                            21 ม.ค., 2026
+                                        </div>
+                                        <div class="fileviewer-user-meta-item ms-2">
+                                            <i class="fa-solid fa-eye me-1"></i>
+                                            333
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        <div class="col">
+                            <div class="row row-cols-auto g-2">
+                                                                    <div class="col">
+                                        <button class="btn btn-primary btn-md download-file"
+                                            data-id="2ZthKvwZfB9Ikca">
+                                            <i class="fa fa-download me-1"></i>
+                                            ดาวน์โหลด
+                                        </button>
+                                    </div>
+                                                                <div class="col">
+                                    <button class="fileviewer-sidebar-open btn btn-danger btn-md">
+                                        <i class="fa-solid fa-share-nodes me-1"></i>
+                                        แชร์
+                                    </button>
+                                </div>
+                                                                                                    <div class="col">
+                                        <a data-bs-toggle="modal" data-bs-target="#report" class="btn btn-secondary btn-md">
+                                            <i class="fa-regular fa-flag me-1"></i>
+                                            รายงาน
+                                        </a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <aside class="fileviewer-sidebar">
+            <div class="overlay"></div>
+            <div class="fileviewer-sidebar-content">
+                <div class="fileviewer-sidebar-header">
+                    <h5 class="fileviewer-sidebar-title">แชร์</h5>
+                    <a class="fileviewer-sidebar-close">
+                        <i class="fa fa-times"></i>
+                    </a>
+                </div>
+                <div class="fileviewer-sidebar-body" data-simplebar>
+                                            <div class="fileviewer-sidebar-section">
+                            <div class="share v2">
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://uppic.cloud/th/2ZthKvwZfB9Ikca" class="social-btn social-facebook"
+    target="_blank">
+    <i class="fab fa-facebook-f"></i>
+</a>
+<a href="https://twitter.com/intent/tweet?text=https://uppic.cloud/th/2ZthKvwZfB9Ikca" class="social-btn social-twitter" target="_blank">
+    <i class="fab fa-twitter"></i>
+</a>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://uppic.cloud/th/2ZthKvwZfB9Ikca" class="social-btn social-linkedin"
+    target="_blank">
+    <i class="fab fa-linkedin"></i>
+</a>
+<a href="https://wa.me/?text=https://uppic.cloud/th/2ZthKvwZfB9Ikca" class="social-btn social-whatsapp" target="_blank">
+    <i class="fab fa-whatsapp"></i>
+</a>
+<a href="http://pinterest.com/pin/create/button/?url=https://uppic.cloud/th/2ZthKvwZfB9Ikca" class="social-btn social-pinterest"
+    target="_blank">
+    <i class="fab fa-pinterest"></i>
+</a>
+                            </div>
+                        </div>
+                        <div class="fileviewer-sidebar-section">
+                            <p class="fileviewer-sidebar-section-title">แชร์ลิงค์</p>
+                            <div class="input-group">
+                                <input id="downloadLink" type="text" class="form-control form-control-md"
+                                    value="https://uppic.cloud/th/2ZthKvwZfB9Ikca" readonly />
+                                <button type="button" class="btn btn-primary btn-copy px-20p"
+                                    data-clipboard-target="#downloadLink">
+                                    <i class="fa-regular fa-clone fa-lg"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="fileviewer-sidebar-section">
+                            <p class="fileviewer-sidebar-section-title">HTML Code</p>
+                            <div class="textarea-btn">
+                                <textarea id="htmlCode" class="form-control" rows="5" readonly><a target="_blank" href="https://uppic.cloud/th/2ZthKvwZfB9Ikca"><img src="https://uppic.cloud/ib/zoqJp7NcjoQCgJz_1768984457.png" alt="Gemini_Generated_Image_f3zx6sf3zx6sf3zx.png"/></a></textarea>
+                                <button class="btn btn-primary btn-copy"
+                                    data-clipboard-target="#htmlCode">คัดลอก</button>
+                            </div>
+                        </div>
+                        <div class="fileviewer-sidebar-section">
+                            <p class="fileviewer-sidebar-section-title">BBCode</p>
+                            <div class="textarea-btn">
+                                <textarea id="bbCode" class="form-control" rows="5" readonly>[url=https://uppic.cloud/th/2ZthKvwZfB9Ikca][img]https://uppic.cloud/ib/zoqJp7NcjoQCgJz_1768984457.png[/img][/url]</textarea>
+                                <button class="btn btn-primary btn-copy"
+                                    data-clipboard-target="#bbCode">คัดลอก</button>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </aside>
+    </div>
+    
+        
+            <div id="report" class="modal fade" tabindex="-1" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">รายงานภาพนี้</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form action="https://uppic.cloud/th/2ZthKvwZfB9Ikca/report" method="POST">
+                            <input type="hidden" name="_token" value="Ztk5XW5DwS31Ly63juawKrYWRFsgkd3Zd7P4qJUM" autocomplete="off">                            <div class="row g-3 mb-3">
+                                <div class="col-lg-6">
+                                    <label class="form-label">ชื่อ : <span
+                                            class="red">*</span></label>
+                                    <input type="name" name="name" class="form-control form-control-md"
+                                        value="" required>
+                                </div>
+                                <div class="col-lg-6">
+                                    <label class="form-label">เมล : <span
+                                            class="red">*</span></label>
+                                    <input type="email" name="email" class="form-control form-control-md"
+                                        value="" required>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">เหตุผลในการรายงาน :
+                                    <span class="red">*</span></label>
+                                <select name="reason" class="form-select form-select-md" required>
+                                                                            <option value="0">ความเป็นส่วนตัว ลิขสิทธิ์ หรือการร้องเรียนทางกฎหมาย</option>
+                                                                            <option value="1">สแปมหรือทําให้เข้าใจผิด</option>
+                                                                            <option value="2">มัลแวร์ ไวรัส หรือเนื้อหาที่เป็นอันตราย</option>
+                                                                            <option value="3">การล่วงละเมิดเด็ก</option>
+                                                                            <option value="4">อื่น ๆ</option>
+                                                                    </select>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">รายละเอียด : <span
+                                        class="red">*</span></label>
+                                <textarea name="details" class="form-control" rows="7"
+                                    placeholder="อธิบายเหตุผลที่คุณรายงานภาพได้สูงสุด 600 ตัวอักษร"
+                                    required></textarea>
+                            </div>
+                            
+                            <button type="submit"
+                                class="btn btn-primary btn-md">ส่ง</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+                </section>
+    <footer class="footer">
+    <div class="container-lg">
+        <div class="row justify-content-between g-3">
+            <div class="col-auto">
+                <div class="footer-copyright">
+                    <p class="mb-0">&copy; <span data-year></span> เว็บอัปโหลดและฝากรูปฟรี ใช้งานง่าย ไม่มีลายน้ำ ไม่จำกัดขนาดภาพ -
+                        ขอสงวนลิขสิทธิ์.</p>
+                </div>
+            </div>
+                            <div class="col-auto">
+                    <div class="footer-links">
+                                                    <div class="link">
+                                <a href="https://ushared.cloud/">ฝากไฟล์คลิปวีดีโอ</a>
+                            </div>
+                                            </div>
+                </div>
+                    </div>
+    </div>
+</footer>
+    <script>
+    "use strict";
+    const config = {
+        lang: "th",
+        baseURL: "https://uppic.cloud",
+        primaryColor: "#216AC4",
+        secondaryColor: "#0A458E",
+        alertActionTitle: "คุณแน่ใจหรือ?",
+        alertActionText: "ยืนยันว่าคุณต้องการทําสิ่งนี้",
+        alertActionConfirmButton: "ยืนยัน",
+        alertActionCancelButton: "ยกเลิก",
+        copiedToClipboardSuccess: "คัดลอกแล้ว",
+    };
+</script>
+<script>
+    "use strict";
+    let configObjects = JSON.stringify(config),
+        getConfig = JSON.parse(configObjects);
+</script>
+        <script src="https://uppic.cloud/assets/vendor/libs/jquery/jquery.min.js"></script>
+<script src="https://uppic.cloud/assets/vendor/libs/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="https://uppic.cloud/assets/vendor/libs/toastr/js/vironeer-toastr.min.js"></script>
+<script src="https://uppic.cloud/assets/vendor/libs/simplebar/simplebar.min.js"></script>
+        <script src="https://uppic.cloud/assets/vendor/libs/clipboard/clipboard.min.js"></script>
+    <script src="https://uppic.cloud/assets/js/application.bcdb220165471f62677305514297a264.js"></script>
+<script src="https://uppic.cloud/assets/js/extra/extra.js"></script>
+<script type="text/javascript">toastr.options={"duration":3000,"animationDuration":400,"progressBar":true,"autoClose":true,"closeButton":true,"closeButtonIcon":"vironeer-toast-close-icon","positionClass":"vironeer-toast-top-right","showIcon":true,"preventDuplicates":true,"icons":{"info":"vironeer-toast-info-icon","warning":"vironeer-toast-warning-icon","success":"vironeer-toast-success-icon","error":"vironeer-toast-error-icon"},"colorsClasses":{"info":"vironeer-toast-info","warning":"vironeer-toast-warning","success":"vironeer-toast-success","error":"vironeer-toast-error"}};</script>        
+    </body>
+
+</html>
